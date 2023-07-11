@@ -37,8 +37,8 @@ Ultimately, tunable parameters in a simulation may account for perturbations aki
 
 At the heart of my wave simulation module is how a wave moves through space over time. Imagine we are trying to simulate a wave moving through a sheet of paper. There are sets of information that the simulation uses:
 
-* how high or low the sheet of paper is in different locations (ie wave amplitude)
-* the properties of the paper itself (density, material etc) which determine the general speed of wave travel
+* How high or low the sheet of paper is in different locations (ie wave amplitude)
+* The properties of the paper itself (density, material etc) which determine the general speed of wave travel
 
 I used the classic "wave equation" in 2 dimensions to simulate wave behavior:
 
