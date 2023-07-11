@@ -282,6 +282,8 @@ for coordinate in [(int((1/3+1/2)/2*N_x), int((1/3+1/2)/2*N_y)),
 
 **Spectrograms at different coordinates**
 
+Spectrograms are image like plots that show the frequency makeup of a signal over time. Spectrograms are extremely useful for analyzing properties of signals in the frequency domain. This in turn can be used to identify or categorize sources of the signal.
+
 ```
 #Initialize Spectrogram
 transform = torchaudio.transforms.Spectrogram(n_fft=400, hop_length=5)
@@ -318,6 +320,8 @@ for coordinate in [(int((1/3+1/2)/2*N_x), int((1/3+1/2)/2*N_y)),
 ![spectrogram2](spectrogram2.png)
 
 ![spectrogram3](spectrogram3.png)
+
+Note the y axes correspond to the frequency, the x axes correspond to time, and the color indicates the amplitude of the specific frequency.
 
 # Under the Hood:
 
