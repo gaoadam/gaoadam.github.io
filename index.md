@@ -14,7 +14,7 @@ layout: home
 
 <body>
   <div style="text-align: center;">
-  <!-- Avatar --><img src="https://raw.githubusercontent.com/gaoadam/gaoadam.github.io/images/avatar.jpg" alt="Adam Gao" class="avatar" itemprop="image"
+  <!-- Avatar --><img src="/images/avatar.jpg" alt="Adam Gao" class="avatar" itemprop="image"
                       width=200
                       height=200><!-- Name and Suffix -->
   </div>
