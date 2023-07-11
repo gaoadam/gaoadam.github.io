@@ -42,7 +42,7 @@ At the heart of my wave simulation module is how a wave moves through space over
 
 I used the classic "wave equation" in 2 dimensions to simulate wave behavior:
 
-$$\partial^2 u\partial t^2 = c^2 \partial^2 u\partial x^2$$
+$$\dfrac{\partial^2 u}{\partial t^2} = c^2\dfrac{\partial^2 u}{\partial x^2}$$
 
 If you're unfamiliar with the notation, just know the equation indicates how a wave travels through some sort of medium over time and through space.
 
