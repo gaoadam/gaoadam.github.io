@@ -48,9 +48,9 @@ If you're unfamiliar with the notation, just know the equation indicates how a w
 
 Assuming linear CPU computing, the addition of each new dimension effectively multiplies the compute time. This is why parallel processing in a GPU is highly recommended. Fortunately, key computations on my simulation module can be run directly on any NVIDIA GPU with CUDA support.
 
-Given time $t$ and time step $dt$, if wavefunction $u(x,y,t)$ is known, then wavefunction $u(x,y,t + dt)$ can be calculated at each coordinate $(x,y)$ in parallel (simultaneously).
+Given time $$t$$ and time step $$dt$$, if wavefunction $$u(x,y,t)$$ is known, then wavefunction $$u(x,y,t + dt)$$ can be calculated at each coordinate $$(x,y)$$ in parallel (simultaneously).
 
-Thus, dimensions $x$ and $y$ can be parallelized while $t$ cannot be parallelized. Similarly predictive simulations with wavefunctions undefined by analytical functions are parallelizable across spatial coordinates, but not across time.
+Thus, dimensions $$x$$ and $$y$$ can be parallelized while $$t$$ cannot be parallelized. Similarly predictive simulations with wavefunctions undefined by analytical functions are parallelizable across spatial coordinates, but not across time.
 
 ## Wave Source Customization
 
@@ -64,8 +64,8 @@ Wave sources in the real world can be approximated to all kinds of functions. Fo
 
 My wave simulator allows the user to add any number of wave source(s) with the following criteria:
 
-* Wave source location via coordinates $(x,y)$
-* Wave source amplitude at any time in the form of a function $g(t)$
+* Wave source location via coordinates $$(x,y)$$
+* Wave source amplitude at any time in the form of a function $$g(t)$$
 
 For example, a user could simulate:
 
@@ -162,7 +162,7 @@ for g in g_r1:
 
 ### Generate Waves 
 
-Finally, the fun part! Let's define the wave function at time = 0 for all locations in the grid. In this case, I define it as a flat plane, ie $u(x,y) = 0$ at $t=0$, for all $x$ and $y$.
+Finally, the fun part! Let's define the wave function at time = 0 for all locations in the grid. In this case, I define it as a flat plane, ie $$u(x,y) = 0$$ at $$t=0$$, for all $$x$$ and $$y$$.
 
 This leads to a boring grey plot. But things are about to get interesting!
 
@@ -179,7 +179,7 @@ plt.title('u1 at t=0')
 
 ![u0](u0.png)
 
-With the setup done, generating simulation data is as simple as calling the wave_eq() function in one line of code. We pass in 3 arguments: initial wavefunction $u(x,y)$ at $t=0$ , the wave source functions, and the simulation metadata.
+With the setup done, generating simulation data is as simple as calling the wave_eq() function in one line of code. We pass in 3 arguments: initial wavefunction $$u(x,y)$$ at $$t=0$$ , the wave source functions, and the simulation metadata.
 
 All the other lines of code seen below are to track code runtime:
 
@@ -331,9 +331,9 @@ I won't go too in depth on how I constructed the source code for general simulat
 
 Note the following tensor names used in the module:
 
-* u is $u(t)$ at the current timestep $t$
-* u_prev1 is $u(t)$ at previous timestep $t-dt$
-* u_new is $u(t)$ at future timestep $t+dt$. We are trying to calculate this value
+* u is $$u(t)$$ at the current timestep $$t$$
+* u_prev1 is $$u(t)$$ at previous timestep $$t-dt$$
+* u_new is $$u(t)$$ at future timestep $$t+dt$$. We are trying to calculate this value
 
 Take the following excerpt:
 
