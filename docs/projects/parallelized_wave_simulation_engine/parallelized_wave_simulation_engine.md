@@ -58,9 +58,9 @@ A large concern when it comes to simulation engines is not just realism or compl
 
 Wave sources in the real world can be approximated to all kinds of functions. For example, consider the effects of an earthquake on a closed room. One may want to approximate the wave source as a sum of the following:
 
-* an impulse response (eg a sudden 30 millisecond impact)
-* a constant sine wave with a specific frequency (eg a 300 Hz vibration)
-* white noise
+* An impulse response (e.g. a sudden 30 millisecond impact)
+* A constant sine wave with a specific frequency (e.g. a 300 Hz vibration)
+* White noise
 
 My wave simulator allows the user to add any number of wave source(s) with the following criteria:
 
@@ -206,8 +206,6 @@ GPU run time is much faster than CPU-only run time.
 One very simple and fun way to observe the simulation is by video. In my case, I elect to save the 3 dimensional tensor data to an mp4 video file. The first dimension is time, which determines the frame being shown on screen. The 2nd and 3rd dimensions are the coordinates of the pixels being shown:
 
 ```
-
-
 #Get maximum wave amplitude to normalize pixel values in video
 value_max = data1['u'].max().item()
 #Write to video file
