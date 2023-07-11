@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Parallelized Wave Simulation Engine
-
+parent: Projects
+usemathjax: true
 ---
 
 # Parallelized Wave Simulation Engine
