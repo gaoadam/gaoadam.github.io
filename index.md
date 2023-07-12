@@ -27,5 +27,5 @@ layout: home
   
   Welcome! This website is my project portfolio. My projects mainly consist of signal processing.
   
-  For my music, please visit my <a href="adamgao.bandcamp.com">bandcamp</a>. Completed songs and simulations can be found on my <a href="https://www.youtube.com/@adamgaosignals)">youtube channel</a>.
+  For my music, please visit my <a href="adamgao.bandcamp.com">bandcamp</a>. Completed songs and simulations can be found on my <a href="https://www.youtube.com/@adamgaosignals">youtube channel</a>.
 </body>
