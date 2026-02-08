@@ -25,7 +25,7 @@ layout: home
 
 <h2>Welcome!</h2>
 
-  <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failiure prevention.</p>
+  <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failure prevention.</p>
 
   <p>After graduating with a BS in physics from the University of Toronto, I worked as a data scientist for a buildings management startup, and then a technical consulting firm.</p>
 
