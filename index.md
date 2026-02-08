@@ -24,8 +24,14 @@ layout: home
   </div>
 
 <h2>Welcome!</h2>
-  
-  <p>This website is my project portfolio. My projects mainly consist of signal processing, neural networks, and physics simulations.</p>
+
+  <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failiure prevention.</p>
+
+  <p>After graduating with a BS in physics from the University of Toronto, I worked as a data scientist for a buildings management startup, and then a technical consulting firm.</p>
+
+  <p>This website is currently my personal project portfolio. Currently it's some Python scripts I made to teach myself neural networks a number of years ago. They involve physics simulations and signal processing.</p>
+
+  <p> I have other hobbies too. </p>
   
   <p>My music can be found on my <a href="https://adamgao.bandcamp.com">bandcamp</a>. My <a href="https://www.youtube.com/@adamgaosignals">youtube channel</a> mainly consists of physics simulations and finished songs.</p>
 
