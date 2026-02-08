@@ -27,9 +27,10 @@ layout: home
 
   <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failure prevention.</p>
 
-  <p>After graduating with a BS in physics from the University of Toronto, I worked as a data scientist for a buildings management startup, and then a technical consulting firm.</p>
+  <p>Currently, this website is just my personal project portfolio. A number of years ago I made some Python scripts to teach myself neural networks and play with physics simulations using pytorch and Nvidia's CUDA platform.</p>
 
-  <p>This website is currently my personal project portfolio. Currently it's some Python scripts I made to teach myself neural networks a number of years ago. They involve physics simulations and signal processing.</p>
+<h2> About Me </h2>>
+  <p>After graduating with a BS in physics from the University of Toronto, I worked as a data scientist for a buildings management startup, and then a technical consulting firm.</p>
 
   <p> I have other hobbies too. </p>
   
