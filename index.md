@@ -23,7 +23,7 @@ layout: home
   </h1>
   </div>
 
-<h2>I am working on a industrial tech business</h2>
+<h2>Hi. I'm working on an industrial tech business</h2>
 
   <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failure prevention.</p>
 
