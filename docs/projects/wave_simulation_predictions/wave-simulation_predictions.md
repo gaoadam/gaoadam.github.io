@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Predicting a Wave Simulation using Neural Networks
-parent: Projects
+parent: Personal Python Projects
 usemathjax: true
 ---
 

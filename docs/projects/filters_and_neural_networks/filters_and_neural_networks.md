@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Filters and Neural Networks
-parent: Projects
+parent: Personal Python Projects
 usemathjax: true
 ---
 

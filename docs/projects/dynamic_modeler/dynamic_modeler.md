@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dynamical Systems, Neural Networks, and TensorFlow
-parent: Projects
+parent: Personal Python Projects
 usemathjax: true
 ---
 

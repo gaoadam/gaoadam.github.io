@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parallelized Wave Simulation Engine
-parent: Projects
+parent: Personal Python Projects
 usemathjax: true
 ---
 
