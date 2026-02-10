@@ -27,7 +27,7 @@ layout: home
 
   <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failure prevention.</p>
 
-  <p>Once I've aggregated some feedback from operational experts I've been interviewing, I will post a general playbook and offering description on here. All you need to know for now is that it begins with a low latency data collection solution. I will elaborate in the future.</p>
+  <p>Once I've aggregated some feedback from operational experts I've been interviewing, I will post a general playbook and offering description on here. I belive the solution will begin with cheap, low latency data collection. I will elaborate in the future.</p>
 
   <p>Currently, this website is just my personal project portfolio. A number of years ago I made some Python scripts to teach myself neural networks and make physics simulations using Pytorch and Nvidia's CUDA support to run them on my GPU.</p>
 
