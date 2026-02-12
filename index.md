@@ -37,7 +37,7 @@ layout: home
 
   <p> I have other hobbies too. </p>
   
-  <p>My music can be found on my <a href="https://adamgao.bandcamp.com">bandcamp</a>. My <a href="https://www.youtube.com/@adamgaosignals">youtube channel</a> mainly consists of physics simulations and finished songs.</p>
+  <p>My music can be found on my <a href="https://adamgao.bandcamp.com">bandcamp</a>. My <a href="https://www.youtube.com/@adamgao_">youtube channel</a> mainly consists of physics simulations and finished songs.</p>
 
   <p>You can contact me via email: <a href="mailto:hello.adam.gao@gmail.com">hello.adam.gao@gmail.com</a></p>
 </body>
