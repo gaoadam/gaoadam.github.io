@@ -25,7 +25,7 @@ layout: home
 
 <h2>Hi. I'm working on an industrial tech business</h2>
 
-  <p>I'm currently validating a business idea to help manufacturing companies collect and aggregate operational data for defect and failure prevention.</p>
+  <p>I'm currently validating a business idea to help manufacturing and energy companies collect and aggregate operational data for defect and failure prevention.</p>
 
   <p>Once I've aggregated some feedback from operational experts I've been interviewing, I will post a general playbook and offering description on here. I belive the solution will begin with cheap, low latency data collection. I will elaborate in the future.</p>
 
